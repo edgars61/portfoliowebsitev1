@@ -6,7 +6,8 @@ import reportWebVitals from './reportWebVitals';
 import "bootstrap/dist/css/bootstrap.min.css"
 
 ReactDOM.render(
-<h1>Hello world!</h1>,
+
+  <App/>,
   document.getElementById('root')
 );
 
