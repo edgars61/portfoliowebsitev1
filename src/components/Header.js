@@ -1,5 +1,8 @@
 import React from "react";
 import Typed from "react-typed";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
 
 
 const Header = () => {
@@ -10,6 +13,8 @@ const Header = () => {
         <h1>Hi, my name is<br/>    Edgar Santana.
         </h1>
         <h2>I'm a Software Developer</h2>
+        
+      
         <a href="#" className="btn-main-offer">contact me</a>
       </div>
     </div>
