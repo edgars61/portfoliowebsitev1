@@ -23,7 +23,7 @@ function App() {
               type: "circle",
               stroke: {
                 width: 6,
-                color: "#64ffda"
+                color: "#8739F9"
               }
             }
           }
